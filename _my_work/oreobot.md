@@ -3,6 +3,7 @@ title: 'Oreobot'
 layout: article
 image:
   teaser: 'oreobot-thumb.jpg'
+  feature: 'oreobot.jpg'
 ---
 
 ### Robotics, Electronics, Control Software.
