@@ -1,6 +1,6 @@
 ---
 title: Neutrogena Pixelwall
-layout: article
+layout: portfolio
 image:
   teaser: 'pixel-thumb.jpg'
   credit: Rob de la Cretaz

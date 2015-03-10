@@ -1,8 +1,11 @@
 ---
 title: 'CMOA: Art Tracks'
-layout: article
+layout: portfolio
 image:
   teaser: 'art-tracks-thumb.jpg'
+software:
+  role: "Lead developer"
+  tools: Ruby, Ember, Sinatra, RDF, CIDOC-CRM, LOD, APIs
 ---
 
 Art Tracks is an IMLS funded initiative at the Carnegie Museum of Art that aims to turn provenance in to structured data by building a suite of open source software tools.  These tools transform traditional written provenance records into searchable data, with an emphasis on existing data standards and a strong focus on building tools that are useful (and usable) across multiple institutions.

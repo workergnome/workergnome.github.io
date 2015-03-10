@@ -1,12 +1,12 @@
 ---
 title: PPLKPR
-layout: article
+layout: portfolio
 image:
   teaser: pplkpr-thumb.jpg
+software:
+  role: "Additional development"
+  tools: Ruby, Phantom JS, Facebook API, Redis, Sinatra, Resque
 ---
-
-#### Additional Development, Web technologies
-##### Ruby, Phantom JS, Facebook API, Redis, Sinatra, Resque
 
 PPLKPR is a project by Lauren McCarthy and Kyle McDonald.
 
@@ -16,6 +16,13 @@ For more information about the project, see <http://pplkpr.com>.
 
 ---
 
+#### Press
+
+* [Creative Applications](http://www.creativeapplications.net/i-os/pplkpr-app-to-analyze-manage-and-optimize-your-social-life/)* [TechCrunch](http://techcrunch.com/2015/01/19/pplkpr/)
+* [Wired](http://www.wired.com/2015/01/hard-time-human-app-manages-friendships/)
+* [Mashable](http://mashable.com/2015/01/28/pplkpr-app/)
+
+
 #### Code
 
-* [Fakebook api (ruby)](https://github.com/workergnome/fakebook_api)
+* [Fakebook api (Ruby)](https://github.com/workergnome/fakebook_api)

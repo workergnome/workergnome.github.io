@@ -1,6 +1,6 @@
 ---
 title: 'Talks and Presentations'
-layout: article
+layout: portfolio
 image:
   teaser: 'talk-thumb.jpg'
 ---

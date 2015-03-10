@@ -1,6 +1,6 @@
 ---
 title: 'Iontank: Pepsi Z-Wall'
-layout: article
+layout: portfolio
 image:
   teaser: 'zwall-thumb.jpg'
 ---

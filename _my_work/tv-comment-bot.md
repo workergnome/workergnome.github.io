@@ -1,9 +1,11 @@
 ---
 title: 'TV Comment Bot'
-layout: article
+layout: portfolio
 image:
   teaser: 'tv-comment-bot-thumb.jpg'
   feature: 'tv-bot.jpg'
+software:
+  tools: Ruby, NLP
 ---
 
 I was invited to be one of the participants in [Art Hack Day: Deluge](http://www.arthackday.net/events/deluge) in late January, 2015.  This three day art show/hackathon in Red Hook, New York, NY brought together 60 artists and technologists to create works around the themes of the flood.

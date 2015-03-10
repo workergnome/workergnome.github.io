@@ -1,7 +1,6 @@
 ---
 title: 'CMOA: Gulf Tower Project'
-layout: article
-share: false
+layout: portfolio
 image:
   teaser: 'gulf-tower-thumb.png'
   feature: gulf-tower-dicello.jpg

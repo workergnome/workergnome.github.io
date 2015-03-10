@@ -1,6 +1,6 @@
 ---
 title: 'Emlenton Mill Kiosk'
-layout: article
+layout: portfolio
 image:
   teaser: 'mill-thumb.jpg'
   feature: 'mill.jpg'

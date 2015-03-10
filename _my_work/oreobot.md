@@ -1,14 +1,13 @@
 ---
 title: 'Oreobot'
-layout: article
+layout: portfolio
 image:
   teaser: 'oreobot-thumb.jpg'
   feature: 'oreobot.jpg'
+software:
+  role: "Robotics, Electronics, Control Software"
+  tools: Open Frameworks, Arduino, Raspberry Pi, Gcode
 ---
-
-### Robotics, Electronics, Control Software.
-#### Open Frameworks, Arduino, Raspberry Pi, Gcode
-
 
 
 
