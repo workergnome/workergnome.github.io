@@ -1,1 +1,31 @@
-Hello World
+---
+layout: archive
+permalink: /
+title: "Workergnome Studios"
+---
+
+<p>
+  David Newbury is a creative developer working with the intersections between hardware, animation and data.   He is exploring methods to use technology to provide novel experiences without obvious technological mediation.  He has spent the past 15 years working on interactive projects for major brands, including Samsung, Google, and Oreo, as well as working with museums, universities and public broadcasting.  His work has received national attention, including Emmy awards and coverage in Wired, Vice, and other publications. He runs a small design practice, Workergnome Studios, focusing on unusual development projects, and he gives workshops on using technology for artistic practices.
+</p>
+
+<section class='odd'>
+  <h2>Recent Posts</h2>
+    <div class="tiles">
+    {% for post in site.posts %}
+    	{% include post-grid.html %}
+    {% endfor %}
+    </div>
+</section>
+
+
+<hr/>
+
+<section>
+<h2> Projects </h2>
+
+<div class="tiles">
+{% for post in site.my_work %}
+  {% include post-grid.html %}
+{% endfor %}
+</div>
+</section>
